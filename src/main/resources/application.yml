@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: file:///Users/thilak/Thilak/playground/local-config
+          uri: https://github.com/ThilakrajSelvam/config-files
 
 server:
   port: 8888
